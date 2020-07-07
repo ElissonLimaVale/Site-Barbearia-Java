@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+#titulo{
+    text-align: center;
+    font-family: impact;
+    font-size: 26px;
+}
+#corpo{
+    font-size: 17px;
+    margin: 30px;
+    padding: 25px 30px 25px 30px
+}
+#sub1, #sub2, #sub3, #sub4, #sub5, #sub6, #sub7, #sub8, #sub9, #sub10{
+    font-size: 19px;
+}
+div.menu{
+    display: flex;
+    justify-content: space-around;
+    font-family: impact;
+    text-decoration: none;
+}
+#body{
+    background-color: orange;
+}
